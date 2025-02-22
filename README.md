@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Naz, and I have a master’s degree in data science. Struggling to find both the data and the science.</h2>
+<h2 align="left">Hi 👋! My name is Naz, and I am a Master's Student in data science. Struggling to find both the data and the science.</h2>
 
 ###
 
